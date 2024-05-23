@@ -4,12 +4,20 @@
 An experienced Android Developer with a great communication and a team player with 6+ years of extensive experience in the field of building successful android apps. Looking for an opportunity to use my knowledge and experience to be an asset for a company in need.
 
 - 🔭 I’m currently working on some of my pesonal app ideas :)
-- 🌱 I’m currently learning AI and how to integrate AI into my apps
+- 🌱 I’m currently learning AI and how to integrate
+- AI into my apps
 - 💬 Ask me about Android OS and Android Phones
+- 📫 How to reach me: LinkedIn [in/shareefoo](https://www.linkedin.com/in/shareefoo/)
+
+## My Stats 📊
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ranitraj&show_icons=true&theme=dracula)](https://github.com/shareefoo/shareefoo)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranitraj&layout=compact&theme=dracula)](https://github.com/shareefoo/shareefoo) 
+
 <!--
 - - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -17,12 +25,6 @@ An experienced Android Developer with a great communication and a team player wi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=SmartThermostat&theme=dracula)](https://github.com/ranitraj/ranitraj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=MqttClient&theme=dracula)](https://github.com/ranitraj/ranitraj)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=ContactsEntrepot&theme=dracula)](https://github.com/ranitraj/ranitraj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=ActiveNetworkStateObserver&theme=dracula)](https://github.com/ranitraj/ranitraj)
-
-
-## My Stats 📊
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ranitraj&show_icons=true&theme=dracula)](https://github.com/ranitraj/ranitraj)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranitraj&layout=compact&theme=dracula)](https://github.com/ranitraj/ranitraj) 
 
 
 ## My Blog posts 📰
