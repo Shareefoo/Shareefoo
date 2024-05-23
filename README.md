@@ -9,11 +9,6 @@ An experienced Android Developer with a great communication and a team player wi
 - 💬 Ask me about Android OS and Android Phones
 - 📫 How to reach me: LinkedIn [in/shareefoo](https://www.linkedin.com/in/shareefoo/)
 
-## My Stats 📊
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ranitraj&show_icons=true&theme=dracula)](https://github.com/shareefoo/shareefoo)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranitraj&layout=compact&theme=dracula)](https://github.com/shareefoo/shareefoo) 
-
 <!--
 - - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -37,3 +32,8 @@ An experienced Android Developer with a great communication and a team player wi
 
 ## Languages, Frameworks and Tools 🛠
 ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![](https://img.icons8.com/color/48/000000/kotlin.png) ![](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![](https://img.icons8.com/color/48/000000/git.png) ![icons8-firebase-48](https://user-images.githubusercontent.com/15179100/226479783-721c46be-5e66-471c-baf5-1a9f9eb51370.png)
+
+## My Stats 📊
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shareefoo&show_icons=true&theme=dracula)](https://github.com/shareefoo/shareefoo)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shareefoo&layout=compact&theme=dracula)](https://github.com/shareefoo/shareefoo) 
