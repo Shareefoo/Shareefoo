@@ -21,6 +21,10 @@ An experienced Android Developer with a great communication and a team player wi
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=ContactsEntrepot&theme=dracula)](https://github.com/ranitraj/ranitraj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=ActiveNetworkStateObserver&theme=dracula)](https://github.com/ranitraj/ranitraj)
 
+## My Stats 📊
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shareefoo&show_icons=true&theme=dracula)](https://github.com/shareefoo/shareefoo)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shareefoo&layout=compact&theme=dracula)](https://github.com/shareefoo/shareefoo) 
 
 ## My Blog posts 📰
 - [Implementing an Active Network-State Monitor in Android](https://medium.com/geekculture/implementing-an-active-network-state-monitor-in-android-dbbc24cf2bc5)
@@ -32,8 +36,3 @@ An experienced Android Developer with a great communication and a team player wi
 
 ## Languages, Frameworks and Tools 🛠
 ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![](https://img.icons8.com/color/48/000000/kotlin.png) ![](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![](https://img.icons8.com/color/48/000000/git.png) ![icons8-firebase-48](https://user-images.githubusercontent.com/15179100/226479783-721c46be-5e66-471c-baf5-1a9f9eb51370.png)
-
-## My Stats 📊
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shareefoo&show_icons=true&theme=dracula)](https://github.com/shareefoo/shareefoo)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shareefoo&layout=compact&theme=dracula)](https://github.com/shareefoo/shareefoo) 
