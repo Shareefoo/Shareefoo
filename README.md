@@ -34,4 +34,10 @@ An experienced Android Developer with a great communication and a team player wi
 -->
 
 ## Languages, Frameworks and Tools 🛠
-![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![](https://img.icons8.com/color/48/000000/kotlin.png) ![](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![](https://img.icons8.com/color/48/000000/git.png) ![icons8-firebase-48](https://user-images.githubusercontent.com/15179100/226479783-721c46be-5e66-471c-baf5-1a9f9eb51370.png)
+![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) 
+![](https://img.icons8.com/color/48/000000/kotlin.png) 
+![](https://img.icons8.com/color/48/000000/android-studio--v3.png)
+<img src="https://4.bp.blogspot.com/-NnAkV5vpYuw/XNMYF4RtLvI/AAAAAAAAI70/kdgLm3cnTO4FB4rUC0v9smscN3zHJPlLgCLcBGAs/s1600/Jetpack_logo%2B%25282%2529.png" width="48" height="48"/>
+<img src="https://blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png" width="48" height="48" />
+![](https://img.icons8.com/color/48/000000/git.png) 
+![icons8-firebase-48](https://user-images.githubusercontent.com/15179100/226479783-721c46be-5e66-471c-baf5-1a9f9eb51370.png)
