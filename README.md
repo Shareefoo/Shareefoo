@@ -3,9 +3,9 @@
 ## About me 🙂
 An experienced Android Developer with a great communication and a team player with 6+ years of extensive experience in the field of building successful android apps. Looking for an opportunity to use my knowledge and experience to be an asset for a company in need.
 
-- 🔭 I’m currently working on some of my pesonal app ideas :)
+- 🔭 I’m currently working on some of my personal app ideas :)
 - 🌱 I’m currently learning AI and how to integrate AI into my apps
-- 💬 Ask me about Android OS and Android Phones
+- 💬 Ask me about anything Tech, Android OS and Android Phones
 - 📫 How to reach me: LinkedIn [in/shareefoo](https://www.linkedin.com/in/shareefoo/)
 
 <!--
