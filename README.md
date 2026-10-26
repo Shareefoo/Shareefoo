@@ -1,7 +1,9 @@
 ### Hello World!, I'm Shareef 👋
 
 ## About me 🙂
-A senior mobile developer and team player with great communication skills and 7+ years of experience building successful Android apps. I've widened my scope to Kotlin Multiplatform, iOS, and the systems underneath (mobile OS internals and Linux).
+A senior mobile developer and team player with great communication skills and 7+ years of experience building successful Android apps. 
+I've widened my scope to Kotlin Multiplatform, iOS, and the systems underneath (mobile OS internals and Linux).
+
 My next step is software/app architecture: designing scalable, maintainable systems and guiding teams toward good technical decisions. 
 
 I'm looking for an opportunity to grow into that role and be an asset for a company in need.
